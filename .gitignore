@@ -1,2 +1,10 @@
 Dataset/anime.csv
 Dataset/rating.csv
+
+README.md
+
+Dataset/train_rating.csv
+Dataset/test_rating.csv
+Dataset/embedding_anime.csv
+Dataset/matrix_genre.csv
+Dataset/preprocessed_anime.csv
